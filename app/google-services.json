@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916773301382",
+    "firebase_url": "https://flicks-513c8.firebaseio.com",
+    "project_id": "flicks-513c8",
+    "storage_bucket": "flicks-513c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916773301382:android:9e46fef2d1096f88a83507",
+        "android_client_info": {
+          "package_name": "com.codebosses.devs.flicksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916773301382-is3of22t6rc2va6m5ifqingrch9lvh1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEZKQgkX_Xrrkhz9mfM4hba_mE-by9Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916773301382-is3of22t6rc2va6m5ifqingrch9lvh1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

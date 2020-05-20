@@ -17,6 +17,7 @@ public class CelebrityEntity {
     @ColumnInfo(name = "profile_path")
     private String profilePath;
 
+
     public CelebrityEntity() {
     }
 
